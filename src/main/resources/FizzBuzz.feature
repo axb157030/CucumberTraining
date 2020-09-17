@@ -17,7 +17,6 @@
 ## (Comments)
 #Sample Feature Definition Template
 
-#@Author: Amine
 #@tag
 Feature: FizzBuzz gameplay
 
